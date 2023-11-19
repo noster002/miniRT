@@ -75,3 +75,15 @@ x,y,z coordinates of the center of the cylinder | In range [-inf,+inf]
 Cylinder diameter | In range [-inf,+inf]
 Cylinder height | In range [-inf,+inf]
 R,G,B colors | In range [0,255]
+
+E.g.:
+```
+A                             0.1  0,50,255
+C 50,0,10    -1,0,0                           100
+L 0,0,30                      1
+
+cy -20,0,15   0,1,0  5    20       50,50,200
+sp -20,20,15         10            100,0,70
+pl -40,0,0    1,0,0                100,200,0
+```
+
