@@ -77,6 +77,8 @@ Cylinder height | In range [-inf,+inf]
 R,G,B colors | In range [0,255]
 
 E.g.:
+
+file.rt
 ```
 A                             0.1  0,50,255
 C 50,0,10    -1,0,0                           100
